@@ -33,8 +33,10 @@ The script will organize files into categorized folders automatically.
 **Before and After
 
 Before Running the Script:
+/Before.png
 
 After Running the Script:
+/After.png
 
 **Contributing
 
